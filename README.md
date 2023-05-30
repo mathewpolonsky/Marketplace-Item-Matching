@@ -29,6 +29,9 @@
 Полный текст, но различающиеся атрибуты помечены, а также вынесены выше, чтобы избежать обрезания текста во время токенизации
 
 ## Файлы
-`Working_with_Dataset.ipynb` - Первоначальная обработка данных, сбор полных текстов
+
+
+`Working_with_Dataset.ipynb` - Первоначальная обработка данных, сбор полных текстов  <a target="_blank" href="https://colab.research.google.com/github/mathewpolonsky/Marketplace-Item-Matching/blob/main/Adding_Text_Difference.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
 `Adding_Text_Difference.ipynb` - Добавления разниц текстов для датасета
